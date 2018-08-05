@@ -16,3 +16,6 @@ Passe como parâmetros da função a mensagem e a quantidade de vezes que quer m
   }
 
 })()
+
+// Versão minificada:
+((a,b)=>{var c=document.querySelector('._2S1VP');for(var d=0;d<b;d++)c.innerHTML=a,c.dispatchEvent(new Event('input',{bubbles:!0})),document.querySelector('._35EW6').click()})('mensagem', 2);
