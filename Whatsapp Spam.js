@@ -1,5 +1,5 @@
 /*
-Utilização: colar no console do chrome. 
+Utilização: colar no console do navegador. 
 Passe como parâmetros da função a mensagem e a quantidade de vezes que quer mandá-la.
 */
 
