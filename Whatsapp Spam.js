@@ -6,7 +6,7 @@ Passe como parâmetros da função a mensagem e a quantidade de vezes que quer m
 ((mensagem = 'Mensagem de teste', quantidadeDeVezes = 1) => {
   const caixaTexto = document.querySelector('._2S1VP')
 
-  for (let i = 0;i<quantidadeDeVezes;i++) {
+  for (let i = 0; i < quantidadeDeVezes ; i++) {
     caixaTexto.innerHTML = mensagem
 
     caixaTexto.dispatchEvent(new Event('input', { bubbles: true }))
